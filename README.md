@@ -46,6 +46,6 @@ The OpenAI Article Summarizer is a web application that allows users to quickly 
 For any inquiries or feedback, please contact:
 
 - **Name**: Aarohi
-- **Email**: your-email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: aarohig905@gmail.com
+- **GitHub**: [aaarrohii](https://github.com/aaarrohii)
 
