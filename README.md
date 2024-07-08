@@ -14,6 +14,10 @@ Summarize any kind of article with just one click using the powerful OpenAI mode
 
 The OpenAI Article Summarizer is a web application that allows users to quickly and easily summarize articles using the powerful OpenAI model. This tool is perfect for anyone who needs to get the gist of an article without spending too much time reading.
 
+## Project Demo
+
+![Project Banner](./assets/image.png)
+
 ## Features
 
 - **URL Input**: Summarize articles directly from a URL.
