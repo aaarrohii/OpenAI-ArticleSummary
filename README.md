@@ -1,6 +1,6 @@
 # OpenAI Article Summarizer
 
-![OpenAI](https://img.shields.io/badge/OpenAI-Article%20Summarizer-blue)
+![OpenAI](https://openai-articlesummary-aarohi.vercel.app/)
 
 Summarize any kind of article with just one click using the powerful OpenAI model.
 
@@ -9,10 +9,7 @@ Summarize any kind of article with just one click using the powerful OpenAI mode
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -34,28 +31,6 @@ The OpenAI Article Summarizer is a web application that allows users to quickly 
 - **API**: OpenAI API
 - **Storage**: Local Storage
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/OpenAI-Article-Summarizer.git
-    cd OpenAI-Article-Summarizer
-    ```
-
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Create a `.env` file and add your OpenAI API key:
-    ```
-    REACT_APP_OPENAI_API_KEY=your_openai_api_key
-    ```
-
-4. Start the development server:
-    ```bash
-    npm start
-    ```
 
 ## Usage
 
@@ -63,13 +38,6 @@ The OpenAI Article Summarizer is a web application that allows users to quickly 
 2. Click the "Summarize" button.
 3. View the summary, copy it to your clipboard, or save it for later.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
