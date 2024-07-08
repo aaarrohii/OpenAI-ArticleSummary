@@ -16,7 +16,7 @@ The OpenAI Article Summarizer is a web application that allows users to quickly 
 
 ## Project Demo
 
-![Project Banner](yoy.png)
+![Project Banner](./src/assets/yoy.png)
 
 ## Features
 
