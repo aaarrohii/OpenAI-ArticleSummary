@@ -1,7 +1,5 @@
 # OpenAI Article Summarizer
 
-![OpenAI](https://openai-articlesummary-aarohi.vercel.app/)
-
 Summarize any kind of article with just one click using the powerful OpenAI model.
 
 ## Table of Contents
